@@ -146,6 +146,6 @@ Project: Customer Churn Prediction Using Machine Learning
 
 GitHub: https://github.com/ksakthi23
 
-## 📄 License
+##  License
 
 This project was developed for educational and internship purposes.
