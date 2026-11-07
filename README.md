@@ -1,5 +1,5 @@
 
-# 📊 Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction Using Machine Learning
 
 A Machine Learning project that predicts whether a customer is likely to leave a company or continue using its services. The project uses Python, data preprocessing, exploratory data analysis, and machine learning evaluation techniques to identify potential customer churn.
 
